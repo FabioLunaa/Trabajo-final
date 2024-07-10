@@ -2,5 +2,5 @@
 #Funcionalidades: Enviar un Formulario, - Navegabilidad entre plantillas, Eventos, etc. 
 
 
- <img src = "C:\Users\chiky\Desktop\Iágenes de mis proyectos en GitHub\final_front_2021.jpg" width = "200">
+ <img src = "https://github.com/FabioLunaa/Trabajo-final/blob/master/img/final_front_2021.jpg?raw=true">
 
